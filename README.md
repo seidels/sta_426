@@ -5,5 +5,5 @@ This is the readme file for the course
 
 Hoping for a fun statistics class!
 
-![image](/home/sophie/Master/FS17_18/Stats/sta_426/correlation.png)
+![image](correlation.png)
 
